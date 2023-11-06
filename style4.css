@@ -1,0 +1,32 @@
+*{ 
+    font-family: sans-serif;
+}
+body{
+    background-color:palegoldenrod;
+}
+.section-padding{
+    padding:100px 0;
+  
+}
+.heading {
+    font-weight: bold;
+    
+}
+.navbar{
+    
+    width:100%;
+    background-image: linear-gradient(to right, #c96565, #ffb88c);
+}
+.navbar-brand{
+    color:white !important;
+}
+.nav-link{
+    color:white !important;
+}
+.gallery{
+    padding: 80px;
+    background-color:palegoldenrod;
+}
+img{
+    max-width: 100%;
+}
